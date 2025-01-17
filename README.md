@@ -49,6 +49,7 @@ pip install openai mysql-connector-python
    ```sql
    CREATE DATABASE gpt4_db;
    ```
+   Prefer to create using script.
 
 ### 3. Configure the Script
 
