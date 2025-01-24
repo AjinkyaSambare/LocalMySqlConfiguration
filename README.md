@@ -1,5 +1,8 @@
-# GPT-4 Database Integration System
+## Join the Community  
+[Join Curious PM Community](https://curious.pm/) to connect, share, and learn with others!
 
+
+# GPT-4 Database Integration System
 This project demonstrates how to integrate GPT-4 with a MySQL database using Python. The script accepts user prompts, retrieves responses from GPT-4 via Azure OpenAI, formats the responses, and stores them in a database. Additionally, the script allows users to retrieve the last stored entry from the database.
 
 ---
